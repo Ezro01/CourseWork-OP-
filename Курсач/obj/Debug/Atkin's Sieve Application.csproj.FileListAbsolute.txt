@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Atkin's Sieve Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Atkin's Sieve Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Курсач.LoginForm.resources
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Курсач.MainForm.resources
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Курсач.RegisterForm.resources
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Atkin's Sieve Application.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Atkin's Sieve Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Atkin's Sieve Application.csproj.CopyComplete
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Asus\Desktop\ОП курсач Решето аткина\Курсач\Курсач\obj\Debug\Курсач.pdb
